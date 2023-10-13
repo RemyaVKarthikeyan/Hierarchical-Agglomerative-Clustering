@@ -29,7 +29,10 @@ Step 5: Visualizing the clusters
 
 ![image](https://github.com/RemyaVKarthikeyan/Hierarchical-Agglomerative-Clustering/assets/145346713/3297af91-ea08-4f0c-8566-d9d60d0c3fcb)
 
-![image](https://github.com/RemyaVKarthikeyan/Hierarchical-Agglomerative-Clustering/assets/145346713/cd4e24cb-47a1-4e8d-8a96-819fe9900ede)
+![image](https://github.com/RemyaVKarthikeyan/Hierarchical-Agglomerative-Clustering/assets/145346713/9542c597-e1e1-4bc1-b31a-b93af29d61f2)
+
+
+
 
 
 
